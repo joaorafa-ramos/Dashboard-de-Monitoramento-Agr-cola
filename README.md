@@ -102,9 +102,7 @@ O sistema recomenda irrigação baseado em:
 - Temperatura > 28°C
 - Umidade do Ar < 60%
 
-## Histórico de Lançamentos
 
-- 1.0.0 — 11/11/2025 — Versão final para Atividade 1
 
 
 
