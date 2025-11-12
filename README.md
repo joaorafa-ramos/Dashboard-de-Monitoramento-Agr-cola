@@ -5,9 +5,13 @@
 ## Integrantes
 
 . João Rafael Gonçalves Ramos - 567908
+
 . Letícia Angelim Guerra - 567501
+
 . Matheus Guimarães França - 567144
+
 . Rivando Bezerra Cavalcanti Neto - 568235
+
 . Tales Ferraz de Arruda Domienikan - 567483
 
 
@@ -101,5 +105,6 @@ O sistema recomenda irrigação baseado em:
 ## Histórico de Lançamentos
 
 - 1.0.0 — 11/11/2025 — Versão final para Atividade 1
+
 
 
