@@ -68,15 +68,15 @@ O dashboard abrirá em `http://localhost:8501`.
 ## Capturas de Tela
 
 ### 1 - Métricas Principais
-![Métricas Principais](prints/print1.png)
+Métricas Principais (prints/print1.png)
 *Exibição das últimas leituras dos sensores: Umidade, pH, Nitrogênio, Fósforo e Potássio.*
 
 ### 2 - Gráficos Interativos
-![Gráficos Interativos](prints/print2.png)
+Gráficos Interativos (prints/print2.png)
 *Análise temporal com gráficos interativos de Umidade/pH e Nutrientes (N, P, K) com zoom e exploração.*
 
 ### 3 - Sistema de Recomendação de Irrigação
-![Sistema de Irrigação](prints/print3.png)
+Sistema de Irrigação (prints/print3.png)
 *Recomendações inteligentes baseadas em temperatura, umidade do ar e umidade do solo, com histórico da bomba.*
 ## Vídeo Demonstrativo
 
@@ -101,4 +101,5 @@ O sistema recomenda irrigação baseado em:
 ## Histórico de Lançamentos
 
 - 1.0.0 — 11/11/2025 — Versão final para Atividade 1
+
 
