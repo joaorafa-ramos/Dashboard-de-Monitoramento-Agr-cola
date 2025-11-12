@@ -84,7 +84,7 @@ Sistema de Irrigação (prints/print3.png)
 *Recomendações inteligentes baseadas em temperatura, umidade do ar e umidade do solo, com histórico da bomba.*
 ## Vídeo Demonstrativo
 
-🔗 [LINK DO VÍDEO]([https://www.youtube.com/watch?v=SEU_ID_AQUI](https://youtu.be/J9iB4t9So8U))
+🔗 [LINK DO VÍDEO]((https://youtu.be/J9iB4t9So8U))
 
 ## Funcionalidades Implementadas
 
@@ -101,6 +101,7 @@ O sistema recomenda irrigação baseado em:
 - Umidade do Solo < 50%
 - Temperatura > 28°C
 - Umidade do Ar < 60%
+
 
 
 
